@@ -1,4 +1,4 @@
-# LiterAlura---Challenge-Java
+# LiterAlura Challenge-Java
 
 Este projeto é um aplicativo de console desenvolvido em Java com Spring Boot, como parte de um Alura Challenge de programação. O objetivo é criar um catálogo de livros interativo que consome a API pública [Gutendex](https://gutendex.com/) para buscar informações sobre livros e autores, e persistir esses dados em um banco de dados PostgreSQL local.
 
